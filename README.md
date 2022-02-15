@@ -1,3 +1,3 @@
-# UmjetnaInteligencija
+# Umjetna Inteligencija
 
 Developed with Unreal Engine 4
